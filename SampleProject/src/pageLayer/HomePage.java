@@ -6,6 +6,8 @@ public class HomePage {
 		// TODO Auto-generated method stub
        System.out.println("homepage");
        System.out.println("hjhjhj");
+       System.out.println("hjhjhj");
+       
 	}
 
 }
